@@ -1,0 +1,2 @@
+[
+{ "keys": ["super+;"], "command": "move", "args": {"by": "subwords", "forward": true} }]
